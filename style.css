@@ -2,7 +2,22 @@ body {
   background-color: antiquewhite;
   text-align: center;
 }
+p {
+  margin: 10px 30px;
+}
 a {
-  padding: 10px 20px;
+  margin: 10px 20px;
   color: brown;
+}
+img {
+  max-width: 80%;
+  display: block;
+  margin: 30px auto;
+  border-radius: 15px;
+}
+footer {
+  margin-bottom: 40px;
+}
+.email {
+  margin: 0 5px;
 }
